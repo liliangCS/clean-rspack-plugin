@@ -1,0 +1,15 @@
+{
+  "name": "clean-rspack-plugin",
+  "version": "1.0.0",
+  "description": "清除Rspack上一次打包构建的产物",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Rspack",
+    "clean-rspack-plugin"
+  ],
+  "author": "liliang12138",
+  "license": "MIT"
+}
